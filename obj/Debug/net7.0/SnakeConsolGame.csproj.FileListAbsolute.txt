@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\nauka\C#\SnakeConsolGame\bin\Debug\net7.0\SnakeConsolGame.exe
+C:\Users\admin\Desktop\nauka\C#\SnakeConsolGame\bin\Debug\net7.0\SnakeConsolGame.deps.json
+C:\Users\admin\Desktop\nauka\C#\SnakeConsolGame\bin\Debug\net7.0\SnakeConsolGame.runtimeconfig.json
+C:\Users\admin\Desktop\nauka\C#\SnakeConsolGame\bin\Debug\net7.0\SnakeConsolGame.dll
+C:\Users\admin\Desktop\nauka\C#\SnakeConsolGame\bin\Debug\net7.0\SnakeConsolGame.pdb
+C:\Users\admin\Desktop\nauka\C#\SnakeConsolGame\obj\Debug\net7.0\SnakeConsolGame.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\nauka\C#\SnakeConsolGame\obj\Debug\net7.0\SnakeConsolGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\nauka\C#\SnakeConsolGame\obj\Debug\net7.0\SnakeConsolGame.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\nauka\C#\SnakeConsolGame\obj\Debug\net7.0\SnakeConsolGame.AssemblyInfo.cs
+C:\Users\admin\Desktop\nauka\C#\SnakeConsolGame\obj\Debug\net7.0\SnakeConsolGame.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\nauka\C#\SnakeConsolGame\obj\Debug\net7.0\SnakeConsolGame.dll
+C:\Users\admin\Desktop\nauka\C#\SnakeConsolGame\obj\Debug\net7.0\refint\SnakeConsolGame.dll
+C:\Users\admin\Desktop\nauka\C#\SnakeConsolGame\obj\Debug\net7.0\SnakeConsolGame.pdb
+C:\Users\admin\Desktop\nauka\C#\SnakeConsolGame\obj\Debug\net7.0\SnakeConsolGame.genruntimeconfig.cache
+C:\Users\admin\Desktop\nauka\C#\SnakeConsolGame\obj\Debug\net7.0\ref\SnakeConsolGame.dll
