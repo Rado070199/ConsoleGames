@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\nauka\\C#\\ConsoleGames\\ConsoleGames.csproj": {}
+    "C:\\Users\\admin\\Desktop\\ConsoleGames\\ConsoleGames.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\nauka\\C#\\ConsoleGames\\ConsoleGames.csproj": {
+    "C:\\Users\\admin\\Desktop\\ConsoleGames\\ConsoleGames.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\nauka\\C#\\ConsoleGames\\ConsoleGames.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\ConsoleGames\\ConsoleGames.csproj",
         "projectName": "ConsoleGames",
-        "projectPath": "C:\\Users\\admin\\Desktop\\nauka\\C#\\ConsoleGames\\ConsoleGames.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\ConsoleGames\\ConsoleGames.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\nauka\\C#\\ConsoleGames\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\ConsoleGames\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

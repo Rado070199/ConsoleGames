@@ -19,7 +19,7 @@ namespace ConsoleGame
             Console.WriteLine("Here is the list of games avaliable on our system:\n");
             Console.WriteLine("1. Snake");
             Console.WriteLine("2. TicTacTeo");
-            Console.WriteLine("2. Poker\n");
+            Console.WriteLine("2. Pokerrrrrr\n");
             Console.Write("Select a Game 1-2: ");
             gameSelection = int.Parse( Console.ReadLine() );
             Console.Clear();
