@@ -17,7 +17,7 @@ namespace TictacteoConsoleGame.Tictacteo
         // The flag variable checks who has won if it's value is 1 then someone has won the match
         //if -1 then Match has Draw if 0 then match is still running
         static int flag = 0;
-        public static void Poker()
+        public static void Tictacteo()
         {
 
             do
