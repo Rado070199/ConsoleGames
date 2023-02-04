@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\nauka\C#\ConsoleGames\bin\Debug\net7.0\ConsoleGames.exe
+C:\Users\admin\Desktop\nauka\C#\ConsoleGames\bin\Debug\net7.0\ConsoleGames.deps.json
+C:\Users\admin\Desktop\nauka\C#\ConsoleGames\bin\Debug\net7.0\ConsoleGames.runtimeconfig.json
+C:\Users\admin\Desktop\nauka\C#\ConsoleGames\bin\Debug\net7.0\ConsoleGames.dll
+C:\Users\admin\Desktop\nauka\C#\ConsoleGames\bin\Debug\net7.0\ConsoleGames.pdb
+C:\Users\admin\Desktop\nauka\C#\ConsoleGames\obj\Debug\net7.0\ConsoleGames.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\nauka\C#\ConsoleGames\obj\Debug\net7.0\ConsoleGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\nauka\C#\ConsoleGames\obj\Debug\net7.0\ConsoleGames.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\nauka\C#\ConsoleGames\obj\Debug\net7.0\ConsoleGames.AssemblyInfo.cs
+C:\Users\admin\Desktop\nauka\C#\ConsoleGames\obj\Debug\net7.0\ConsoleGames.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\nauka\C#\ConsoleGames\obj\Debug\net7.0\ConsoleGames.dll
+C:\Users\admin\Desktop\nauka\C#\ConsoleGames\obj\Debug\net7.0\refint\ConsoleGames.dll
+C:\Users\admin\Desktop\nauka\C#\ConsoleGames\obj\Debug\net7.0\ConsoleGames.pdb
+C:\Users\admin\Desktop\nauka\C#\ConsoleGames\obj\Debug\net7.0\ConsoleGames.genruntimeconfig.cache
+C:\Users\admin\Desktop\nauka\C#\ConsoleGames\obj\Debug\net7.0\ref\ConsoleGames.dll

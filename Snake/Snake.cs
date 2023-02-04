@@ -46,7 +46,7 @@ namespace SnakeConsolGame.Snake
             {
                 Console.SetCursorPosition(HeadPosition.X, HeadPosition.Y);
                 Console.ForegroundColor = ConsoleColor.DarkGreen;
-                Console.Write("@");
+                Console.Write("o");
                 Tail.Add(new Coordinate(HeadPosition.X, HeadPosition.Y));
                 if (Tail.Count > Lenght)
                 {
