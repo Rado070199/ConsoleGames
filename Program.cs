@@ -2,6 +2,7 @@
 using SnakeConsolGame.Snake;
 using TictacteoConsoleGame.Tictacteo;
 using PokerConsoleGames.Poker;
+using ConsoleCalculator.Calculator;
 
 namespace ConsoleGame
 {
@@ -19,7 +20,8 @@ namespace ConsoleGame
             Console.WriteLine("Here is the list of games avaliable on our system:\n");
             Console.WriteLine("1. Snake");
             Console.WriteLine("2. TicTacTeo");
-            Console.WriteLine("2. Pokerrrrrr\n");
+            Console.WriteLine("3. Poker");
+            Console.WriteLine("4. Calculator\n");
             Console.Write("Select a Game 1-2: ");
             gameSelection = int.Parse( Console.ReadLine() );
             Console.Clear();
@@ -34,6 +36,9 @@ namespace ConsoleGame
                     break; ;
                 case 3:
                     PokerGame.Poker();
+                    break;                
+                case 4:
+                    ConsolCalculator.Calculator();
                     break;
                     
             }
